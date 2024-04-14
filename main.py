@@ -8,7 +8,7 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
-profile_pic = current_dir / "assets" / "Profile_pict.jpg"
+profile_pic = current_dir / "assets" / "Profile_pict_nB.jpg"
 
 # Page Contents...........................
 PAGE_TITLE = "Digital CV | Akash Ahamed"
