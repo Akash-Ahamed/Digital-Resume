@@ -1,7 +1,8 @@
 [theme]
 
 # Primary accent color for interactive elements.
-promaryColor = "#d33682"
+#promaryColor = "#d33682"
+promaryColor = "#FF9900"
 
 # Background color for the main content area.
 backgroundColor ="#002b36"
